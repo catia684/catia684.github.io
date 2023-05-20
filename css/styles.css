@@ -168,7 +168,7 @@
 
     /* text
      */
-    --color-text       : var(--color-gray-11);
+    --color-text       : var(--color-gray-6);
     --color-text-dark  : var(--color-black);
     --color-text-light : var(--color-gray-7);
     --color-placeholder: var(--color-gray-6);
